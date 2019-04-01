@@ -1,1 +1,6 @@
-
+hub txiao_github
+shortLabel txiao Hub
+longLabel txiao hichip loop files
+genomesFile genomes.txt
+email txiao2015@gmail.com
+descriptionUrl github.com/txiao2018/
